@@ -213,7 +213,7 @@ export default function Home() {
       </div>
       <footer className={styles.footer}>
         <p className="mt-4">
-          &copy; 2023 Meme Token. All Rights Reserved.
+          &copy; 0xMoei Alpha On Twitter . All Rights Reserved.
         </p>
       </footer>
     </div>
